@@ -1,0 +1,3 @@
+[submodule "LibraryExample"]
+	path = LibraryExample
+	url = https://github.com/juliabrezmen/LibraryExample.git
