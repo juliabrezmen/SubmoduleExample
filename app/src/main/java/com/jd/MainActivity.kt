@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
 import com.jd.ds.MyButton
+import com.jd.ds.MyEditView
 
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -22,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         MyButton()
+        MyEditView()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
